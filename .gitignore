@@ -1,0 +1,7 @@
+src/*.o
+snake_game/src/*.o
+Debug
+.cproject
+.project
+snake_game/bin/snake_game_jhi_v1_3
+*~
